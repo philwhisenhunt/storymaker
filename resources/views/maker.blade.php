@@ -69,7 +69,7 @@ Please enter a noun.
 
 
 <hr class="mb-4">
-<button class="btn btn-primary btn-lg btn-block orange-button" type="submit">Create your story!</button>
+<button class="btn  btn-primary  btn-large fire-button col-sm-12 col-md-12 col-lg-12" type="submit">Create your story!</button>
 </form>
 
         </div>

@@ -15,7 +15,7 @@ class UsersController extends Controller
        
 
 
-        return view('welcome', compact('users'));
+        return view('maker', compact('users'));
     }
 
     public function story()
